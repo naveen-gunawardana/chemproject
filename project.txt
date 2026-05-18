@@ -1,0 +1,135 @@
+ 
+Add your name to the Title of this Document: “Chem Final Project (S26)- First Last”
+
+Use this checklist to track your progress:
+Copy and share this template with me, lindsey.mao@sfuhs.org Make sure that I have edit access.
+Choose a project topic and get it approved by teacher
+Write a Research Question and get it approved by teacher
+Choose the standards that you want to be assessed on
+Decide on the creative way that you will format your project as a deliverable (no slides)
+Find at least three reputable sources, checked for bias and quality
+Get draft of project reviewed by two (2) classmates
+Submit final project on time
+
+Project topic (by May 13/14th): 	You can brainstorm topics here. Once you narrow down your topic, just erase the others.
+
+Electrolytes and athletic performance
+
+Research Question (by May 13/14th): refine as needed!
+
+How do electrolytes in sports drinks affect athletic performance and human function, and how do marketing claims compare to what people actually need and consume? 
+
+
+Standards chosen (by May 15): Please expand upon the prompts below and delete material for options you don’t choose. You are allowed to choose up to 4 total standards (including the required ones).
+Required: Argumentation
+Which EU did you choose? 
+I choose Coulombic Interactions EU because my topic is about electrolytes, which are charged ions like Na⁺, K⁺, and Cl⁻. 
+Do you want this to be graded?
+No. 
+Required: Science and Society
+Option 1: Describe both the positive AND negative impacts on society (in general). 
+Option 2: Explore the ethical implications. This might involve discussing the ethical responsibility of scientists, companies, the media, etc.
+Option 3: Write a convincing statement describing why we as a society should be knowledgeable about your chosen project. This can be an opinion, but should be supported by your research.
+I will write this one because it's heavily marketing towards athletes and young kids, even though people don't understand that electrolytes are just helpful for everyone.
+Optional: Data Analysis
+Option 1: Find a data set (not collected by you):
+I will compare and analyze that data from a dataset. I will describe trends, such as which drinks have more sodium or potassium and whether higher electrolyte levels also come with higher sugar content. I will use relevant chemistry concepts.
+Describe the trend(s), using scientific concepts to explain the trends
+Analyze sources of error in their experimental data and consider their impact on the results. This could involve identifying and quantifying sources of random or systematic error in measurements, assessing the precision and accuracy of experimental techniques, and discussing ways to minimize or mitigate sources of error in future experiments.
+Option 2: If you designed your own experiment.
+Organize your data into a graph or data table (or some other representation), which ever is most appropriate.
+Describe the trend(s), using scientific concepts to explain the trends
+Analyze sources of error in their experimental data and consider their impact on the results. This could involve identifying and quantifying sources of random or systematic error in measurements, assessing the precision and accuracy of experimental techniques, and discussing ways to minimize or mitigate sources of error in future experiments.
+
+Final Product: Remember you need to present your project in a CREATIVE way. Type in a description of what you’re doing. Examples below to inspire you:
+Video (live action or animation)
+A flyer to be placed in hallways
+A flipbook
+An interactive
+pop-up book
+infographic or poster
+Comic book
+Computer simulation with written explanation
+Physical model with written explanation
+Board game with rulebook
+Art project with artist statement
+storyboard
+A researched letter to be sent to a legislative body
+A pamphlet or brochure
+Other ideas?
+A website
+Track your productivity:
+Project Day 1 (Date: may 12):		60 minutes
+Goal for the period: What do you hope to work on/complete during this class period?
+I want to find an idea and get started. 
+Progress made: What did you work on and/or complete during this class period?
+I found and idea, chose my standards, and am ready to go.
+
+
+Project Day 2 (Date: may 15):		60 minutes
+Goal for the period: What do you hope to work on/complete during this class period?
+I was absent.
+Progress made: What did you work on and/or complete during this class period?
+I was absent.
+
+Project Day 3 (Date: fill in the date):		75 minutes
+Goal for the period: What do you hope to work on/complete during this class period?
+
+
+Progress made: What did you work on and/or complete during this class period?
+
+
+
+Project Day 4 (Date: fill in the date):		75 minutes
+Goal for the period: What do you hope to work on/complete during this class period?
+
+
+Progress made: What did you work on and/or complete during this class period?
+
+
+
+
+Vet your sources:	Read this short article about how to spot misinformation in a source.
+Source 1: Sawka, M. N., Burke, L. M., Eichner, E. R., Maughan, R. J., Montain, S. J., & Stachenfeld, N. S. (2007). American College of Sports Medicine position stand: Exercise and fluid replacement. Medicine & Science in Sports & Exercise, 39(2), 377–390. https://doi.org/10.1249/mss.0b013e31802ca597
+What main points of information will you be using from this source? Bullet points are fine.
+- Recommended sodium concentration (20–30 mEq/L) and potassium (2–5 mEq/L) for fluids during prolonged exercise.
+- The actual physiological role of Na⁺ in maintaining plasma osmolality and preventing hyponatremia.
+- When electrolyte replacement is genuinely needed (exercise >1 hour, heavy sweating) vs. when plain water is sufficient.
+- Sweat composition data I can compare against drink labels.
+
+How do you know that this source is credible:
+This is the official position stand from the American College of Sports Medicine, peer-reviewed and published in Medicine & Science in Sports & Exercise (one of the top sports-medicine journals). The lead authors are PhD/MD researchers at the U.S. Army Research Institute of Environmental Medicine and major universities. It's heavily cited (thousands of citations) and is the standard reference clinicians use for hydration guidelines.
+
+Source 2: Harvard T.H. Chan School of Public Health. (n.d.). Sports drinks. The Nutrition Source. https://www.hsph.harvard.edu/nutritionsource/healthy-drinks/sports-drinks/
+What main points of information will you be using from this source? Bullet points are fine.
+- Most people, including casual athletes and kids, don't exercise long or hard enough to need the electrolytes or sugar in sports drinks.
+- Added sugar content per bottle and how it stacks up against AHA daily limits.
+- Public-health framing of how sports drinks contribute to childhood obesity and dental erosion.
+- The mismatch between marketing claims and actual nutritional need — directly supports my S&S argument.
+
+How do you know that this source is credible:
+Harvard T.H. Chan School of Public Health is one of the most respected public-health institutions in the world. The Nutrition Source is reviewed by Harvard faculty nutritionists, cites primary peer-reviewed studies inline, has no advertising, and is non-commercial. It explicitly discloses authorship and review process.
+
+Source 3: Committee on Nutrition and the Council on Sports Medicine and Fitness. (2011). Sports drinks and energy drinks for children and adolescents: Are they appropriate? Pediatrics, 127(6), 1182–1189. https://doi.org/10.1542/peds.2011-0965
+What main points of information will you be using from this source? Bullet points are fine.
+- Direct statement from the American Academy of Pediatrics that routine consumption of sports drinks by children should be discouraged.
+- Specific data on sugar content in popular sports drinks and links to obesity and dental erosion.
+- Distinction between "sports drinks" (electrolytes + carbs) and "energy drinks" (stimulants), which is often blurred in marketing.
+- Evidence base for my claim that kid-targeted sports-drink marketing has real public-health consequences.
+
+How do you know that this source is credible:
+This is an official clinical report from the American Academy of Pediatrics, published in Pediatrics (the AAP's flagship peer-reviewed journal). It was authored by two AAP committees (Nutrition + Sports Medicine), each composed of practicing pediatricians and researchers. AAP clinical reports go through formal peer and policy review before publication.
+
+
+
+Peer Review
+In groups of 3, complete the Peer Review form for everybody else in the group. Collect your feedback and synthesized what you learned from it here:
+Clarity
+Connection
+Content
+Other Suggestions/Comments
+How will you change your Draft project according to these comments?
+
+Project notes
+Use the rest of this document to organize your research. You can include notes, links, files, etc. This is a working document that I have edit access to. I will give you feedback at least once a week to help you progress. 
+

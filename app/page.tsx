@@ -14,7 +14,7 @@ export default function Home() {
         <nav className="mb-12 flex items-center justify-between text-sm">
           <span className="flex items-center gap-2 font-medium uppercase tracking-[0.18em] text-neutral-500">
             <span className="inline-block h-2 w-2 rounded-full bg-emerald-500" />
-            SFUHS Chemistry · Spring 2026
+            Chemistry · Spring 2026
           </span>
           <Link
             href="/play"
@@ -50,7 +50,7 @@ export default function Home() {
 
           <dl className="mt-8 grid gap-x-8 gap-y-2 text-sm text-neutral-600 sm:grid-cols-[max-content_1fr]">
             <dt className="font-medium text-neutral-900">Author</dt>
-            <dd>Naveen Gunawardana · SFUHS Chemistry · Spring 2026</dd>
+            <dd>Naveen Gunawardana · Chemistry · Spring 2026</dd>
             <dt className="font-medium text-neutral-900">Format</dt>
             <dd>Interactive web game (Next.js + TypeScript)</dd>
             <dt className="font-medium text-neutral-900">Saving</dt>
@@ -194,7 +194,7 @@ export default function Home() {
         </div>
 
         <footer className="mt-10 text-sm text-neutral-500">
-          © 2026 Naveen Gunawardana · SFUHS Chemistry Final
+          © 2026 Naveen Gunawardana · Chemistry Final
         </footer>
       </div>
     </main>

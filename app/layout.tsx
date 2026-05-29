@@ -36,7 +36,7 @@ const pixelify = Pixelify_Sans({
 });
 
 export const metadata: Metadata = {
-  title: "Sports Drink Tycoon — SFUHS Chemistry Final",
+  title: "Sports Drink Tycoon — Chemistry Final",
   description:
     "A chemistry final project by Naveen Gunawardana. Play the game and read the standards report.",
 };

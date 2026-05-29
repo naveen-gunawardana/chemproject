@@ -36,9 +36,9 @@ const pixelify = Pixelify_Sans({
 });
 
 export const metadata: Metadata = {
-  title: "SPORTS DRINK TYCOON",
+  title: "Sports Drink Tycoon — SFUHS Chemistry Final",
   description:
-    "Run a sports drink company. Make recipes. Market to everyone. Discover what you built.",
+    "A chemistry final project by Naveen Gunawardana. Play the game and read the standards report.",
 };
 
 export default function RootLayout({
@@ -52,11 +52,7 @@ export default function RootLayout({
       className={`${pressStart.variable} ${vt323.variable} ${silkscreen.variable} ${pixelify.variable}`}
       suppressHydrationWarning
     >
-      <body>
-        {children}
-        <div className="crt-overlay" />
-        <div className="crt-vignette" />
-      </body>
+      <body>{children}</body>
     </html>
   );
 }

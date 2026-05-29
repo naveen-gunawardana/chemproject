@@ -45,7 +45,7 @@
 }
 
 @layer base {
-  * {
+  html:has([data-game-shell]) * {
     image-rendering: pixelated;
     -webkit-font-smoothing: none;
     -moz-osx-font-smoothing: grayscale;
@@ -54,20 +54,24 @@
   html,
   body {
     height: 100%;
+  }
+
+  html:has([data-game-shell]),
+  html:has([data-game-shell]) body {
     background: var(--color-night-deep);
     color: var(--color-paper);
     font-family: var(--font-screen);
     overflow: hidden;
   }
 
-  body {
+  html:has([data-game-shell]) body {
     cursor: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='20' height='20' viewBox='0 0 20 20'><rect x='0' y='0' width='4' height='4' fill='%23f4e9d2'/><rect x='4' y='0' width='4' height='4' fill='%23f4e9d2'/><rect x='0' y='4' width='4' height='4' fill='%23f4e9d2'/><rect x='4' y='4' width='4' height='4' fill='%230a0612'/><rect x='8' y='4' width='4' height='4' fill='%23f4e9d2'/><rect x='4' y='8' width='4' height='4' fill='%23f4e9d2'/><rect x='8' y='8' width='4' height='4' fill='%23f4e9d2'/><rect x='12' y='8' width='4' height='4' fill='%23f4e9d2'/></svg>")
       2 2,
       auto;
     font-feature-settings: "kern" 0;
   }
 
-  button {
+  html:has([data-game-shell]) button {
     cursor: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='20' height='20' viewBox='0 0 20 20'><rect x='6' y='0' width='4' height='4' fill='%23ff7a1f'/><rect x='6' y='4' width='4' height='4' fill='%23ff7a1f'/><rect x='2' y='4' width='4' height='4' fill='%23ff7a1f'/><rect x='10' y='4' width='4' height='4' fill='%23ff7a1f'/><rect x='6' y='8' width='4' height='4' fill='%23ff7a1f'/><rect x='6' y='12' width='4' height='4' fill='%23ff7a1f'/></svg>")
       10 10,
       pointer;

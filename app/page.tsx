@@ -169,9 +169,6 @@ export default function Home() {
               World Health Organization. (2015). <em>Guideline: Sugars intake for adults and children.</em>
             </li>
             <li>
-              Coulomb, C. A. (1785). <em>Premier Mémoire sur l&apos;Électricité et le Magnétisme.</em> Mémoires de l&apos;Académie Royale des Sciences.
-            </li>
-            <li>
               Manufacturer nutrition labels: Gatorade, Powerade, BODYARMOR, Prime, Liquid I.V., Pedialyte, Vitamin Water, glacéau (2024–2025).
             </li>
           </ol>

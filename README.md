@@ -42,15 +42,13 @@ a fake sports drink company for profit while hurting the public.
 
 ## Standards covered
 
-This is graded against four chemistry standards. See **`STANDARDS.md`** for
-the full map of where each standard appears in the game.
+The project covers two chemistry standards. The home page maps where each
+one shows up in the game.
 
-- 🌍 **Science & Society** — Public Health Impact panel + end-game verdict
-- 📊 **Data Analysis** — Market Research scatter + Chemistry Analysis +
-  FDA tolerance lab
-- 🗣 **Argumentation** — Press conferences + tagline picker + end-game letter
-- 🦉 **Coulombic Interactions EU** — Per-ingredient Learn modal (3-tier depth)
-  + Coulomb force calculation in real solutions
+- 🌍 **Science & Society** *(graded)* — Public Health Impact panel + end-game verdict
+- 🗣 **Argumentation** *(required)* — Press conferences + tagline picker + end-game
+  letter, with Coulomb's Law (3-tier Learn modals + live force calculation) as
+  the evidence layer
 
 ## Stack
 
@@ -84,5 +82,4 @@ Static export — zero env vars, zero infra.
 
 - **`PRD.md`** — original product requirements (v1)
 - **`PRD-v2.md`** — expansion: buildings, tech tree, achievements
-- **`STANDARDS.md`** — chemistry standards mapping for grading
 - **`project.txt`** — planning doc shared with teacher

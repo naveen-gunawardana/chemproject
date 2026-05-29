@@ -42,7 +42,8 @@ export function PressConferenceModal() {
   };
 
   return (
-    <div className="fixed inset-0 z-[250] bg-night-deep grid place-items-center p-4 screen-enter">
+    <div className="fixed inset-0 z-[250] bg-night-deep overflow-y-auto screen-enter">
+      <div className="min-h-full flex items-center justify-center p-4">
       <div
         className="pixel-panel w-full max-w-3xl"
         style={{ borderColor: "#e84545" }}
@@ -242,6 +243,7 @@ export function PressConferenceModal() {
             {answeredCount}/{conference.questions.length} ANSWERED
           </span>
         </div>
+      </div>
       </div>
     </div>
   );

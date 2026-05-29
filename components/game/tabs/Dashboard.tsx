@@ -186,7 +186,6 @@ export function DashboardTab() {
         <div className="pixel-panel">
           <div className="pixel-titlebar">
             <span>READ_THE_TREND</span>
-            <span className="text-paper-faint">DA 📊</span>
           </div>
           <div className="p-4 text-paper" style={{ fontSize: 14 }}>
             <p className="leading-snug">

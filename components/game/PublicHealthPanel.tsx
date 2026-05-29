@@ -19,7 +19,7 @@ export function PublicHealthPanel() {
     <div className="pixel-panel">
       <div className="pixel-titlebar">
         <span>PUBLIC_HEALTH_IMPACT</span>
-        <span className="text-paper-faint">S&S 🌍 · DA 📊</span>
+        <span className="text-paper-faint">S&S 🌍</span>
       </div>
       <div className="p-4 text-paper space-y-5" style={{ fontSize: 14 }}>
         <div className="grid grid-cols-2 gap-3">

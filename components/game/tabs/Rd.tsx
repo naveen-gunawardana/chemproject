@@ -179,7 +179,6 @@ export function RdTab() {
         <div className="pixel-panel">
           <div className="pixel-titlebar">
             <span>SIG_FIG_NOTE</span>
-            <span className="text-paper-faint">DA 📊</span>
           </div>
           <div
             className="p-4 text-paper"

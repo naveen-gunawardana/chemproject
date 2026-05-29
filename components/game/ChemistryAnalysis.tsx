@@ -24,7 +24,7 @@ export function ChemistryAnalysisPanel({ recipe }: { recipe: Recipe }) {
     <div className="pixel-panel">
       <div className="pixel-titlebar">
         <span>CHEMISTRY_ANALYSIS</span>
-        <span className="text-paper-faint">EU 🦉 · DA 📊</span>
+        <span className="text-paper-faint">EU 🦉</span>
       </div>
       <div className="p-4 space-y-4 text-paper" style={{ fontSize: 14 }}>
         {/* Osmolarity */}

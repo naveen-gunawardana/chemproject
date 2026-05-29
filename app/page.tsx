@@ -33,10 +33,10 @@ export default function Home() {
             Sports Drink Tycoon
           </h1>
           <p className="mt-5 max-w-2xl text-lg text-neutral-600 leading-relaxed">
-            You run a sports drink company for twelve quarters and try to turn a
-            profit. The catch: the fastest way to make money is usually the worst
-            thing for the people drinking your product. This page shows where each
-            chemistry standard shows up while you play.
+            You run a sports drink company for 12 quarters and try to make money.
+            The problem is that the easiest way to make money is usually the worst
+            thing for the people who drink it. This page shows where each chemistry
+            standard shows up while you play.
           </p>
 
           <div className="mt-8 flex flex-wrap gap-3">
@@ -53,8 +53,8 @@ export default function Home() {
             <dd>Naveen Gunawardana · SFUHS Chemistry · Spring 2026</dd>
             <dt className="font-medium text-neutral-900">Format</dt>
             <dd>Interactive web game (Next.js + TypeScript)</dd>
-            <dt className="font-medium text-neutral-900">Persistence</dt>
-            <dd>Auto-saves to the browser</dd>
+            <dt className="font-medium text-neutral-900">Saving</dt>
+            <dd>Saves in your browser automatically</dd>
           </dl>
         </header>
 
@@ -77,7 +77,7 @@ export default function Home() {
                     Science & Society <span className="text-neutral-500">(graded)</span>
                   </td>
                   <td className="px-4 py-3 text-neutral-600">
-                    Market Research → Public Health Impact panel + end-game report card
+                    The Public Health panel in Market Research, plus the end-game report card
                   </td>
                 </tr>
                 <tr>
@@ -85,7 +85,7 @@ export default function Home() {
                     Argumentation <span className="text-neutral-500">(required)</span>
                   </td>
                   <td className="px-4 py-3 text-neutral-600">
-                    Press Conferences, tagline picker in Ads HQ, and the end-game letter, all backed by the Coulombic chemistry in the ingredient Learn modals
+                    Press conferences, the tagline picker in Ads HQ, and the end-game letter. The Coulomb's Law chemistry sits in the ingredient Learn pop-ups.
                   </td>
                 </tr>
               </tbody>
@@ -97,52 +97,52 @@ export default function Home() {
           tag="Primary · Graded · Option 3"
           title="Science & Society"
           rubric={`I can describe the relationships between chemistry and ethics, history, politics, and/or daily life decisions… Convincing statement describing why we as a society should be knowledgeable about your chosen project.`}
-          thesis={`The whole game makes one argument. Sports drink companies sell salt water at high margins by using chemistry words most people can't check, and they push hardest when the buyer is a kid. You play as the company, so you're the one doing the optimizing, and the game keeps the harm you cause on screen right next to your profit.`}
+          thesis={`The whole game makes one point. Sports drink companies sell salt water for a big markup by using chemistry words most people can't check, and they push the hardest when the buyer is a kid. You play as the company, so you're the one chasing profit, and the game keeps the harm you cause right next to your money the whole time. It works the other way around too. Companies don't build these drinks to be healthy, they build them to sell. So when people want something sweet, bright, and a little buzzy, that demand is what loads the bottle with sugar, dye, and caffeine. You feel it in the game: the money rewards whatever sells, and the healthier recipe usually sells worse.`}
           features={[
             {
               h: "Public Health Impact panel",
-              p: "Tracks units sold, sodium and sugar delivered, kids reached. Computes per-kid daily contribution and compares to NIH (1,800 mg sodium/day) and WHO (<25 g sugar/day) guidelines. Models estimated ER visits and a childhood-obesity index.",
+              p: "Shows how many bottles you sold, how much sodium and sugar that put out, and how many kids you reached. It works out how much each kid gets per day and compares that to the NIH limit (1,800 mg sodium/day) and the WHO limit (under 25 g sugar/day). It also estimates ER visits and a childhood obesity score.",
             },
             {
-              h: "Demographic targeting mechanic",
-              p: "Picking Kids 5–12 or Teens 13–18 visibly flags them as HIGH IMPACT. School cafeteria channel is flagged red. Each kid-targeted unit increments the hidden Social Impact score.",
+              h: "Who you market to",
+              p: "If you target Kids 5–12 or Teens 13–18, the game tags them HIGH IMPACT. The school cafeteria channel turns red. Every bottle you aim at kids quietly adds to a hidden Social Impact score.",
             },
             {
               h: "End-game verdict",
-              p: "After Q12 the game compares you to real industry archetypes (Gatorade 2018, Prime 2023, Vitamin Water 2008), calls out the specific harm you did by the numbers, and then lays out the Science & Society argument as the final reveal.",
+              p: "After Q12 the game lines you up against real brands (Gatorade 2018, Prime 2023, Vitamin Water 2008), tells you the exact harm you did in numbers, and then spells out the Science & Society point as the ending.",
             },
             {
               h: "Pressure events",
-              p: "Pediatrician warnings, sugar-tax legislation, class-action lawsuits, and whistleblower leaks fire as the player's choices accumulate harm.",
+              p: "As your choices pile up harm, you start getting hit with doctor warnings, sugar-tax laws, class-action lawsuits, and whistleblower leaks.",
             },
           ]}
         />
 
         <Standard
-          tag="Required · Coulombic EU"
+          tag="Required · Not graded · Coulombic EU"
           title="Argumentation"
           rubric={`I can write clear and accurate claims, provide relevant and sufficient evidence to support a claim, and provide or select accurate, relevant reasoning to connect the two.`}
-          thesis={`You make small arguments all game long through the taglines you pick and how you answer events, and once a year a press conference puts you on the record. A good answer needs real chemistry under it, and that's where Coulomb's Law comes in: it's the evidence you draw on to defend what's actually in the bottle, so the Coulombic content lives inside this standard rather than off on its own.`}
+          thesis={`You're making little arguments the whole game through the taglines you pick and how you answer events, and once a year a press conference puts you on the record. A good answer needs real chemistry behind it, and that's where Coulomb's Law comes in. It's the proof you use to defend what's actually in the bottle, so the Coulomb's Law content lives inside this standard instead of being its own thing.`}
           features={[
             {
-              h: "Year-end Press Conference",
-              p: "After Q4 and Q8, three reporters ask one question each, with three possible answers. Each answer is scored for defensibility (0 to 100), based on how well its claim, evidence, and reasoning hold up, plus a truth % and a social-impact delta.",
+              h: "Year-end press conference",
+              p: "After Q4 and Q8, three reporters each ask one question and you pick from three answers. Each answer gets a defensibility score from 0 to 100 based on how well its claim, evidence, and reasoning hold up, plus a truth % and a change to your social impact.",
             },
             {
-              h: "Tagline picker with hidden Truth %",
-              p: "Each marketing tagline carries a hidden Truth %. High-truth taglines have defensible chemistry behind them; low-truth ones are pure marketing, and picking those costs you later.",
+              h: "Tagline picker with a hidden Truth %",
+              p: "Every tagline has a hidden Truth %. The high-truth ones have real chemistry behind them. The low-truth ones are just marketing, and picking those comes back to bite you later.",
             },
             {
               h: "End-game shareholder letter",
-              p: "Written automatically from the decisions you actually made, it frames your whole tenure as one argument and hands it back to you.",
+              p: "The game writes this from the choices you actually made. It turns your whole run into one argument and hands it back to you.",
             },
             {
-              h: "Coulomb's Law as the evidence base",
-              p: "Every ion in the Recipe Bench has a three-tier Learn modal that walks from what it does, to the chemistry, to a Coulombic deep dive covering Coulomb's Law, ionic radius, hydration shells, and ion-dipole forces. It's the source material for any honest claim you make about the drink.",
+              h: "Coulomb's Law as your evidence",
+              p: "Every ion in the Recipe Bench has a Learn pop-up with three levels: what it does, then the chemistry, then a deep dive into Coulomb's Law, ionic radius, hydration shells, and ion-dipole forces. That's where you get the facts for any honest claim about the drink.",
             },
             {
               h: "Real Coulomb force, written out",
-              p: "The Chemistry Analysis panel computes the actual force between Na⁺ and Cl⁻ at 1 nm from your formula using F = k·q₁q₂/r² (k = 8.99×10⁹, q = 1.602×10⁻¹⁹ C), and a Coulombic.LOG panel writes the dissociation equation for every ion you've added, like NaCl(s) → Na⁺(aq) + Cl⁻(aq).",
+              p: "The Chemistry Analysis panel works out the real force between Na⁺ and Cl⁻ at 1 nm from your recipe using F = k·q₁q₂/r² (k = 8.99×10⁹, q = 1.602×10⁻¹⁹ C). A Coulombic.LOG panel also writes out the split-apart equation for every ion you added, like NaCl(s) → Na⁺(aq) + Cl⁻(aq).",
             },
           ]}
         />

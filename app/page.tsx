@@ -97,7 +97,7 @@ export default function Home() {
           tag="Primary · Graded · Option 3"
           title="Science & Society"
           rubric={`I can describe the relationships between chemistry and ethics, history, politics, and/or daily life decisions… Convincing statement describing why we as a society should be knowledgeable about your chosen project.`}
-          thesis={`The whole game makes one point. Sports drink companies sell salt water for a big markup by using chemistry words most people can't check, and they push the hardest when the buyer is a kid. You play as the company, so you're the one chasing profit, and the game keeps the harm you cause right next to your money the whole time. It works the other way around too. Companies don't build these drinks to be healthy, they build them to sell. So when people want something sweet, bright, and a little buzzy, that demand is what loads the bottle with sugar, dye, and caffeine. You feel it in the game: the money rewards whatever sells, and the healthier recipe usually sells worse.`}
+          thesis={`The whole game makes one point. Sports drink companies sell salt water for a big markup by using chemistry words most people can't check, and they push the hardest when the buyer is a kid. You play as the company, so you're the one chasing profit, and the game shows the harm you cause right next to your money. It works the other way around too. Companies don't build these drinks to be healthy, they build them to sell. So when people want something sweet, bright, and a little buzzy, that demand is what loads the bottle with sugar, dye, and caffeine. In the game, the money rewards whatever sells, and the healthier recipe usually sells worse.`}
           features={[
             {
               h: "Public Health Impact panel",
@@ -109,7 +109,7 @@ export default function Home() {
             },
             {
               h: "End-game verdict",
-              p: "After Q12 the game lines you up against real brands (Gatorade 2018, Prime 2023, Vitamin Water 2008), tells you the exact harm you did in numbers, and then spells out the Science & Society point as the ending.",
+              p: "After Q12 the game compares you to real brands (Gatorade 2018, Prime 2023, Vitamin Water 2008), shows the exact harm you did in numbers, and ends on the Science & Society point.",
             },
             {
               h: "Pressure events",
@@ -122,7 +122,7 @@ export default function Home() {
           tag="Required · Not graded · Coulombic EU"
           title="Argumentation"
           rubric={`I can write clear and accurate claims, provide relevant and sufficient evidence to support a claim, and provide or select accurate, relevant reasoning to connect the two.`}
-          thesis={`You're making little arguments the whole game through the taglines you pick and how you answer events, and once a year a press conference puts you on the record. A good answer needs real chemistry behind it, and that's where Coulomb's Law comes in. It's the proof you use to defend what's actually in the bottle, so the Coulomb's Law content lives inside this standard instead of being its own thing.`}
+          thesis={`You're making little arguments the whole game through the taglines you pick and how you answer events, and once a year a press conference puts you on the record. A good answer needs real chemistry behind it, and that's where Coulomb's Law comes in.`}
           features={[
             {
               h: "Year-end press conference",
@@ -130,15 +130,15 @@ export default function Home() {
             },
             {
               h: "Tagline picker with a hidden Truth %",
-              p: "Every tagline has a hidden Truth %. The high-truth ones have real chemistry behind them. The low-truth ones are just marketing, and picking those comes back to bite you later.",
+              p: "Every tagline has a hidden Truth %. The high-truth ones have real chemistry behind them. The low-truth ones are just marketing, and picking those costs you later.",
             },
             {
               h: "End-game shareholder letter",
-              p: "The game writes this from the choices you actually made. It turns your whole run into one argument and hands it back to you.",
+              p: "The game writes this from the choices you actually made, turning your whole run into one argument.",
             },
             {
               h: "Coulomb's Law as your evidence",
-              p: "Every ion in the Recipe Bench has a Learn pop-up with three levels: what it does, then the chemistry, then a deep dive into Coulomb's Law, ionic radius, hydration shells, and ion-dipole forces. That's where you get the facts for any honest claim about the drink.",
+              p: "Every ion in the Recipe Bench has a Learn pop-up with three levels: what it does, then the chemistry, then a deep dive into Coulomb's Law, ionic radius, hydration shells, and ion-dipole forces. The deep dive is where the facts behind any honest claim about the drink come from.",
             },
             {
               h: "Real Coulomb force, written out",

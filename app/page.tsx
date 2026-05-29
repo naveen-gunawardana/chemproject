@@ -85,7 +85,7 @@ export default function Home() {
                     Argumentation <span className="text-neutral-500">(required)</span>
                   </td>
                   <td className="px-4 py-3 text-neutral-600">
-                    Press conferences, the tagline picker in Ads HQ, and the end-game letter. The Coulomb's Law chemistry sits in the ingredient Learn pop-ups.
+                    The ingredient Learn pop-ups (Coulomb's Law deep dive) and the Coulomb force in the Chemistry Analysis panel
                   </td>
                 </tr>
               </tbody>
@@ -122,20 +122,8 @@ export default function Home() {
           tag="Required · Not graded · Coulombic EU"
           title="Argumentation"
           rubric={`I can write clear and accurate claims, provide relevant and sufficient evidence to support a claim, and provide or select accurate, relevant reasoning to connect the two.`}
-          thesis={`You're making little arguments the whole game through the taglines you pick and how you answer events, and once a year a press conference puts you on the record. A good answer needs real chemistry behind it, and that's where Coulomb's Law comes in.`}
+          thesis={`An argument is only as strong as the evidence behind it. For a sports drink, that evidence is the chemistry, and here that means Coulomb's Law: how the charged ions in your recipe attract, dissolve, and behave. It's what you'd use to back up or knock down any claim about what's really in the bottle.`}
           features={[
-            {
-              h: "Year-end press conference",
-              p: "After Q4 and Q8, three reporters each ask one question and you pick from three answers. Each answer gets a defensibility score from 0 to 100 based on how well its claim, evidence, and reasoning hold up, plus a truth % and a change to your social impact.",
-            },
-            {
-              h: "Tagline picker with a hidden Truth %",
-              p: "Every tagline has a hidden Truth %. The high-truth ones have real chemistry behind them. The low-truth ones are just marketing, and picking those costs you later.",
-            },
-            {
-              h: "End-game shareholder letter",
-              p: "The game writes this from the choices you actually made, turning your whole run into one argument.",
-            },
             {
               h: "Coulomb's Law as your evidence",
               p: "Every ion in the Recipe Bench has a Learn pop-up with three levels: what it does, then the chemistry, then a deep dive into Coulomb's Law, ionic radius, hydration shells, and ion-dipole forces. The deep dive is where the facts behind any honest claim about the drink come from.",

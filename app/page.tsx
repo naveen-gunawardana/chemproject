@@ -97,7 +97,7 @@ export default function Home() {
           tag="Primary · Graded · Option 3"
           title="Science & Society"
           rubric={`I can describe the relationships between chemistry and ethics, history, politics, and/or daily life decisions… Convincing statement describing why we as a society should be knowledgeable about your chosen project.`}
-          thesis={`The whole game makes one point. Sports drink companies sell salt water for a big markup by using chemistry words most people can't check, and they push the hardest when the buyer is a kid. You play as the company, so you're the one chasing profit, and the game shows the harm you cause right next to your money. It works the other way around too. Companies don't build these drinks to be healthy, they build them to sell. So when people want something sweet, bright, and a little buzzy, that demand is what loads the bottle with sugar, dye, and caffeine. In the game, the money rewards whatever sells, and the healthier recipe usually sells worse.`}
+          thesis={`The whole game makes one point. Sports drink companies sell salt water for a big markup by using chemistry words most people can't check, and they push the hardest when the buyer is a kid. You play as the company, so you're the one chasing profit, and the game shows the harm you cause right next to your money. It works the other way around too. Companies don't build these drinks to be healthy, they build them to sell. So when people want something sweet, bright, that demand is what leads the bottle with sugar, dye, and caffeine. In the game, the money rewards whatever sells, and the healthier recipe usually sells worse.`}
           features={[
             {
               h: "Public Health Impact panel",

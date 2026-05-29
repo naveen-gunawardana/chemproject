@@ -129,7 +129,7 @@ export default function Home() {
             },
             {
               h: "Coulomb force, written out",
-              p: "The Chemistry Analysis panel works out the real force between Na⁺ and Cl⁻ at 1 nm from your recipe using F = k·q₁q₂/r² (k = 8.99×10⁹, q = 1.602×10⁻¹⁹ C). A Coulombic.LOG panel also writes out the split-apart equation for every ion you added, like NaCl(s) → Na⁺(aq) + Cl⁻(aq).",
+              p: "The Chemistry Analysis panel works out the force between Na⁺ and Cl⁻ at 1 nm from your recipe using F = k·q₁q₂/r² (k = 8.99×10⁹, q = 1.602×10⁻¹⁹ C). A Coulombic.LOG panel also writes out the split-apart equation for every ion you added, like NaCl(s) → Na⁺(aq) + Cl⁻(aq).",
             },
           ]}
         />

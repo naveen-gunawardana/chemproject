@@ -105,11 +105,11 @@ export default function Home() {
             },
             {
               h: "Who you market to",
-              p: "If you target Kids 5–12 or Teens 13–18, the game tags them HIGH IMPACT. The school cafeteria channel turns red. Every bottle you aim at kids quietly adds to a hidden Social Impact score.",
+              p: "If you target Kids 5–12 or Teens 13–18, the game tags them HIGH IMPACT. The school cafeteria channel turns red. Every bottle you aim at kids adds to a hidden Social Impact score.",
             },
             {
               h: "End-game verdict",
-              p: "After Q12 the game compares you to real brands (Gatorade 2018, Prime 2023, Vitamin Water 2008), shows the exact harm you did in numbers, and ends on the Science & Society point.",
+              p: "After Q12 the game compares you to real brands (Gatorade 2018, Prime 2023, Vitamin Water 2008), shows the exact harm you did in numbers.",
             },
             {
               h: "Pressure events",
@@ -122,14 +122,13 @@ export default function Home() {
           tag="Required · Not graded · Coulombic EU"
           title="Argumentation"
           rubric={`I can write clear and accurate claims, provide relevant and sufficient evidence to support a claim, and provide or select accurate, relevant reasoning to connect the two.`}
-          thesis={`An argument is only as strong as the evidence behind it. For a sports drink, that evidence is the chemistry, and here that means Coulomb's Law: how the charged ions in your recipe attract, dissolve, and behave. It's what you'd use to back up or knock down any claim about what's really in the bottle.`}
           features={[
             {
-              h: "Coulomb's Law as your evidence",
+              h: "Coulomb's Law as evidence",
               p: "Every ion in the Recipe Bench has a Learn pop-up with three levels: what it does, then the chemistry, then a deep dive into Coulomb's Law, ionic radius, hydration shells, and ion-dipole forces. The deep dive is where the facts behind any honest claim about the drink come from.",
             },
             {
-              h: "Real Coulomb force, written out",
+              h: "Coulomb force, written out",
               p: "The Chemistry Analysis panel works out the real force between Na⁺ and Cl⁻ at 1 nm from your recipe using F = k·q₁q₂/r² (k = 8.99×10⁹, q = 1.602×10⁻¹⁹ C). A Coulombic.LOG panel also writes out the split-apart equation for every ion you added, like NaCl(s) → Na⁺(aq) + Cl⁻(aq).",
             },
           ]}
@@ -212,7 +211,7 @@ function Standard({
   tag: string;
   title: string;
   rubric: string;
-  thesis: string;
+  thesis?: string;
   features: { h: string; p: string }[];
 }) {
   return (
@@ -224,9 +223,11 @@ function Standard({
       <blockquote className="mt-5 border-l-2 border-neutral-300 pl-4 text-[15px] italic leading-relaxed text-neutral-600">
         {rubric}
       </blockquote>
-      <p className="mt-6 text-[17px] leading-relaxed text-neutral-800">
-        {thesis}
-      </p>
+      {thesis && (
+        <p className="mt-6 text-[17px] leading-relaxed text-neutral-800">
+          {thesis}
+        </p>
+      )}
 
       <div className="mt-8 grid gap-4 md:grid-cols-2">
         {features.map((f) => (
